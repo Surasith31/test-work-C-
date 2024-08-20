@@ -9,7 +9,7 @@ class Point7
         int seconds2 = 90;
 
         Console.WriteLine("---------------------------------------");
-        obj.time(+seconds);
+        obj.time(seconds);
         obj.time(seconds2);
         Console.WriteLine("---------------------------------------");
     }
