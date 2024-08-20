@@ -63,7 +63,6 @@ class Point6and11
                     minIndex = j;
                 }
             }
-
             // สลับค่าที่ตำแหน่ง i กับตำแหน่ง minIndex
             int temp = array[i];
             array[i] = array[minIndex];

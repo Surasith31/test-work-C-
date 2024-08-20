@@ -1,7 +1,7 @@
 ﻿//ข้อ 1 - 3
 class Point1to3
 {
-    static void Main(String[] args)
+    static void Main()
     {
         Point1to3 obj = new Point1to3();
         //ข้อที่ 1
