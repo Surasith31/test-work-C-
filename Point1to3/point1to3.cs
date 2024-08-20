@@ -26,7 +26,7 @@ class Point1to3
         Console.WriteLine("\nstr = " + str1 + "\nstr3 = " + str3);
         Console.WriteLine(result2);
 
-
+        //ข้อ3
         int[] array1 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         int[] array2 = { 1, 4, 6, 9, 10, 14, 16, 17 };
 

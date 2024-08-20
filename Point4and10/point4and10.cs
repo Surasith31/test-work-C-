@@ -4,7 +4,6 @@ class Point4and10
     static void Main()
     {
         Point4and10 obj = new Point4and10();
-
         int input = 5;
         Console.WriteLine("-------------------------------------------\nข้อ4\n");
         obj.triangle(input);

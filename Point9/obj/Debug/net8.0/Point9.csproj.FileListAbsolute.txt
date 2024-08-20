@@ -12,3 +12,4 @@ D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\refint\Point9.dll
 D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.pdb
 D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.genruntimeconfig.cache
 D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\ref\Point9.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.sourcelink.json

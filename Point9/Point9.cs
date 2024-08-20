@@ -9,7 +9,7 @@ class Point9
         string reversedSentence = ReverseWords(sentence);
 
         // แสดงผลลัพธ์
-        Console.WriteLine("----------------------------------------------");
+        Console.WriteLine("----------------------------------------------\nข้อ 9");
         Console.Write("\n input : " + sentence);
         Console.WriteLine("\n output : " + reversedSentence + "\n");
         Console.Write("----------------------------------------------");

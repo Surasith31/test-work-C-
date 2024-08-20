@@ -13,6 +13,7 @@ class Point8
         Console.WriteLine($"\nเงืนทอน {change} บาท\n");
         obj.Change(change);
     }
+    //ข้อ8
     public void Change(int change)
     {
         // กำหนดจำนวน ธนบัตร และ เหรียญ

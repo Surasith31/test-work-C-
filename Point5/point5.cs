@@ -14,6 +14,7 @@ class Point5
         Console.WriteLine("------------------");
 
     }
+    //ข้อ5
     static void DrawTriangle(int size)
     {
         int currentNumber = 1; // เลขเริ่มต้น
