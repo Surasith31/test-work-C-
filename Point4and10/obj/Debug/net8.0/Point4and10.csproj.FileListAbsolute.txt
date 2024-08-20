@@ -1,0 +1,14 @@
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\bin\Debug\net8.0\Point4and10.exe
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\bin\Debug\net8.0\Point4and10.deps.json
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\bin\Debug\net8.0\Point4and10.runtimeconfig.json
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\bin\Debug\net8.0\Point4and10.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\bin\Debug\net8.0\Point4and10.pdb
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\obj\Debug\net8.0\Point4and10.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\obj\Debug\net8.0\Point4and10.AssemblyInfoInputs.cache
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\obj\Debug\net8.0\Point4and10.AssemblyInfo.cs
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\obj\Debug\net8.0\Point4and10.csproj.CoreCompileInputs.cache
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\obj\Debug\net8.0\Point4and10.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\obj\Debug\net8.0\refint\Point4and10.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\obj\Debug\net8.0\Point4and10.pdb
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\obj\Debug\net8.0\Point4and10.genruntimeconfig.cache
+D:\TestWork\test-work-C#\MyConsoleApp\Point4and10\obj\Debug\net8.0\ref\Point4and10.dll

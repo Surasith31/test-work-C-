@@ -1,0 +1,14 @@
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\bin\Debug\net8.0\Point1to3.exe
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\bin\Debug\net8.0\Point1to3.deps.json
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\bin\Debug\net8.0\Point1to3.runtimeconfig.json
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\bin\Debug\net8.0\Point1to3.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\bin\Debug\net8.0\Point1to3.pdb
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\obj\Debug\net8.0\Point1to3.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\obj\Debug\net8.0\Point1to3.AssemblyInfoInputs.cache
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\obj\Debug\net8.0\Point1to3.AssemblyInfo.cs
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\obj\Debug\net8.0\Point1to3.csproj.CoreCompileInputs.cache
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\obj\Debug\net8.0\Point1to3.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\obj\Debug\net8.0\refint\Point1to3.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\obj\Debug\net8.0\Point1to3.pdb
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\obj\Debug\net8.0\Point1to3.genruntimeconfig.cache
+D:\TestWork\test-work-C#\MyConsoleApp\Point1to3\obj\Debug\net8.0\ref\Point1to3.dll

@@ -1,0 +1,14 @@
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\bin\Debug\net8.0\Point9.exe
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\bin\Debug\net8.0\Point9.deps.json
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\bin\Debug\net8.0\Point9.runtimeconfig.json
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\bin\Debug\net8.0\Point9.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\bin\Debug\net8.0\Point9.pdb
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.AssemblyInfoInputs.cache
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.AssemblyInfo.cs
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.csproj.CoreCompileInputs.cache
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\refint\Point9.dll
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.pdb
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\Point9.genruntimeconfig.cache
+D:\TestWork\test-work-C#\MyConsoleApp\Point9\obj\Debug\net8.0\ref\Point9.dll
